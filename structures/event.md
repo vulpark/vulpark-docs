@@ -3,7 +3,7 @@
 An event object has it's name as a key, and the object being it's data
 
 Example:
-```json
+```jsonc
 {
     "MessageCreate": {
         "message": {
