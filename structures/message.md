@@ -14,5 +14,5 @@
 | Key     | Type                               |
 | -       | -                                  |
 | message | [Message](#message-model)          |
-| channel | [Channel](./channel#channel-model) |
+| channel | [Channel](./channel.md#channel-model) |
 | author  | [User](./user.md#user-model)       |
